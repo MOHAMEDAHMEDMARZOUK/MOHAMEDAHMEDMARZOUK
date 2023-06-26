@@ -1,16 +1,18 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Mohamed Marzouk</h1>
+<h3 align="center">A Journey into Embedded Software Engineering</h3>
+<h4 align="center"><img src ="https://vivekvivian.files.wordpress.com/2020/05/blog_post_js.gif"  width="500px" alt="gif"/></h4>
 
-<!--
-**MOHAMEDAHMEDMARZOUK/MOHAMEDAHMEDMARZOUK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Electrical Engineer ,Interested in Embedded Software Engineering</h5>
+<h3 align="center">And here is important note about me</h3>
+<h3 align="center">I Never give up !</h3>
+<h3 align="center">🔥🔥🔥🚀🚀🚀🔥🔥🔥</h3>
 
-Here are some ideas to get you started:
+- 💬 Ask me about **Embedded System** 
+- 📫 How to reach me: **01211908397** or **mostafaanwar6600@gmail.com**
+- 🌱 I’m currently learning **linux**
+- 🤔 I’m currently open for: **new job opportunity**
+- 📄 Know about my experiences: [MY RESUME](https://drive.google.com/file/d/1twR6ZVe2cUOr4h6YwFOfCbm5w143P6hN/view?usp=drive_link)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Connect with me:</h3>
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Mostafaa-Anwar)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mostafaanwar99/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/profile.php)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/mostafa.anwar113/)  
